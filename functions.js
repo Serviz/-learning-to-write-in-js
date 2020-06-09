@@ -71,4 +71,4 @@ false
 areArraysSame([1, 2, 3], [1, 2, 3]);
 true
 areArraysSame([1, 2, 3], [1, 2, 3, 4]);
-false
+false */
